@@ -2,7 +2,7 @@
 
 Repositório do curso de React ( atualizado e editado ) que está no canal do YouTube do Hora de Codar.
 
-**playlist ytube** - https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+**playlist ytube** - https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 
 
 ------------------------------------------------------------------------
